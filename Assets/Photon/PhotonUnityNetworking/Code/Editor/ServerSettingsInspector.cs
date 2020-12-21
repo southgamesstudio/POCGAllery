@@ -86,7 +86,7 @@ public class ServerSettingsInspector : Editor
             EditorGUI.indentLevel++;
 
             //Realtime APP ID
-            this.BuildAppIdField(settingsSp.FindPropertyRelative("AppIdRealtime"), "App Id PUN");
+            this.BuildAppIdField(settingsSp.FindPropertyRelative("AppIdRealtime"));
 
             if (PhotonEditorUtils.HasChat)
             {
@@ -283,19 +283,10 @@ public class ServerSettingsInspector : Editor
         return hashCode;
     }
 
-    private void BuildAppIdField(SerializedProperty property, string label = null)
+    private void BuildAppIdField(SerializedProperty property)
     {
         EditorGUILayout.BeginHorizontal();
-
-        if (label != null)
-        {
-            EditorGUILayout.PropertyField(property, new GUIContent(label), GUILayout.MinWidth(32));
-        }
-        else
-        {
-            EditorGUILayout.PropertyField(property, GUILayout.MinWidth(32));
-        }
-
+        EditorGUILayout.PropertyField(property, GUILayout.MinWidth(32));
         string appId = property.stringValue;
         string url = "https://dashboard.photonengine.com/en-US/PublicCloud";
         if (!string.IsNullOrEmpty(appId))
