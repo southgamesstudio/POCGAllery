@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: a6f4bed37ec2413498eb5a966265db44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8951765894575902462
+    second: gallerypoccontainernumbers_0
+  - first:
+      213: 7180786516677063148
+    second: gallerypoccontainernumbers_1
+  - first:
+      213: -8097848058840807843
+    second: gallerypoccontainernumbers_2
+  - first:
+      213: 4248879499340579368
+    second: gallerypoccontainernumbers_3
+  - first:
+      213: -2087413878700996487
+    second: gallerypoccontainernumbers_4
+  - first:
+      213: 6904603365522273134
+    second: gallerypoccontainernumbers_5
+  - first:
+      213: -7625569359618975048
+    second: gallerypoccontainernumbers_6
+  - first:
+      213: 7325183159903708669
+    second: gallerypoccontainernumbers_7
+  - first:
+      213: 7085804233042561974
+    second: gallerypoccontainernumbers_8
+  - first:
+      213: -1828580477038641494
+    second: gallerypoccontainernumbers_9
+  - first:
+      213: 6314041294926517960
+    second: gallerypoccontainernumbers_10
+  - first:
+      213: -7028016735122960320
+    second: gallerypoccontainernumbers_11
+  - first:
+      213: -6106743662384810233
+    second: gallerypoccontainernumbers_12
+  - first:
+      213: 8268071815891689891
+    second: gallerypoccontainernumbers_13
+  - first:
+      213: -3402292855357546727
+    second: gallerypoccontainernumbers_14
+  - first:
+      213: 5661622491572708427
+    second: gallerypoccontainernumbers_15
+  - first:
+      213: 1434125099146487039
+    second: gallerypoccontainernumbers_16
+  - first:
+      213: 5366290081658821447
+    second: gallerypoccontainernumbers_17
+  - first:
+      213: -4582534606230613083
+    second: gallerypoccontainernumbers_18
+  - first:
+      213: -4578358855697259140
+    second: gallerypoccontainernumbers_19
+  - first:
+      213: 4022743346546884284
+    second: gallerypoccontainernumbers_20
+  - first:
+      213: 635309583307086180
+    second: gallerypoccontainernumbers_21
+  - first:
+      213: -8435518526654443408
+    second: gallerypoccontainernumbers_22
+  - first:
+      213: -3327609366694998299
+    second: gallerypoccontainernumbers_23
+  - first:
+      213: 5810604384850706688
+    second: gallerypoccontainernumbers_24
+  - first:
+      213: -6621762183966926053
+    second: gallerypoccontainernumbers_25
+  - first:
+      213: -3771515933447480366
+    second: gallerypoccontainernumbers_26
+  - first:
+      213: -4248868382980340635
+    second: gallerypoccontainernumbers_27
+  - first:
+      213: 587867330762948076
+    second: gallerypoccontainernumbers_28
+  - first:
+      213: 6522321243738701144
+    second: gallerypoccontainernumbers_29
+  - first:
+      213: -603664946975127934
+    second: gallerypoccontainernumbers_30
+  - first:
+      213: -5255903607809648237
+    second: gallerypoccontainernumbers_31
+  - first:
+      213: 536159840104952168
+    second: gallerypoccontainernumbers_32
+  - first:
+      213: 4401112751607550970
+    second: gallerypoccontainernumbers_33
+  - first:
+      213: 8950547882421577027
+    second: gallerypoccontainernumbers_34
+  - first:
+      213: 2296768588351724877
+    second: gallerypoccontainernumbers_35
+  - first:
+      213: 5734735972859579644
+    second: gallerypoccontainernumbers_36
+  - first:
+      213: 3164417495122250224
+    second: gallerypoccontainernumbers_37
+  - first:
+      213: 8714223115441549978
+    second: gallerypoccontainernumbers_38
+  - first:
+      213: 2716699390839322437
+    second: gallerypoccontainernumbers_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1850
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b85de850f4c380800000000000000
+      internalID: -8951765894575902462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1850
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1737e9a4747a360800000000000000
+      internalID: 7180786516677063148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1849
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5605bf381aae9f80800000000000000
+      internalID: -8097848058840807843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1850
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82282a3a46d07fa30800000000000000
+      internalID: 4248879499340579368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1849
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788ecc03240803e0800000000000000
+      internalID: -2087413878700996487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1849
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fbe4cd2412df50800000000000000
+      internalID: 6904603365522273134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1850
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8badec5c1198c2690800000000000000
+      internalID: -7625569359618975048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1849
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ebb0064748a560800000000000000
+      internalID: 7325183159903708669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1848
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb06726865d55260800000000000000
+      internalID: 7085804233042561974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1849
+        width: 149
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb5ee8eb39f96e0800000000000000
+      internalID: -1828580477038641494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_10
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1850
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61e31ca1bff9750800000000000000
+      internalID: 6314041294926517960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_11
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1850
+        width: 148
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040de73f308777e90800000000000000
+      internalID: -7028016735122960320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_12
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1849
+        width: 146
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077f257efc704ba0800000000000000
+      internalID: -6106743662384810233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1670
+        width: 151
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1a4aba2871eb270800000000000000
+      internalID: 8268071815891689891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1669
+        width: 147
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f50969ca0a8c0d0800000000000000
+      internalID: -3402292855357546727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1669
+        width: 151
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44ad86d8af129e40800000000000000
+      internalID: 5661622491572708427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1670
+        width: 147
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4291aed2907e310800000000000000
+      internalID: 1434125099146487039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_17
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1669
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd9feb564e87a40800000000000000
+      internalID: 5366290081658821447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_18
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1668
+        width: 150
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a390b01e019760c0800000000000000
+      internalID: -4582534606230613083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_19
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1669
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a6efb0e66670c0800000000000000
+      internalID: -4578358855697259140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_20
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1670
+        width: 135
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3e71a2c7a3d730800000000000000
+      internalID: 4022743346546884284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_21
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1670
+        width: 153
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699b6333b211d800800000000000000
+      internalID: 635309583307086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1489
+        width: 152
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701982e7940fea80800000000000000
+      internalID: -8435518526654443408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1490
+        width: 157
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec1e259e4f1d1d0800000000000000
+      internalID: -3327609366694998299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1489
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018a51f6e963a050800000000000000
+      internalID: 5810604384850706688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1489
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b59859066ca14a0800000000000000
+      internalID: -6621762183966926053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_26
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1490
+        width: 153
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db132aad32e8abc0800000000000000
+      internalID: -3771515933447480366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_27
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1489
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564811797bcf805c0800000000000000
+      internalID: -4248868382980340635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1335
+        width: 156
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedbe210936882800800000000000000
+      internalID: 587867330762948076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1336
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d770c4d90f38a50800000000000000
+      internalID: 6522321243738701144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1336
+        width: 134
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864138dde95f97f0800000000000000
+      internalID: -603664946975127934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_31
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1336
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399dfc204874f07b0800000000000000
+      internalID: -5255903607809648237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_32
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1336
+        width: 152
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861394ca882d07700800000000000000
+      internalID: 536159840104952168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_33
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1336
+        width: 157
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39200cab4e31d30800000000000000
+      internalID: 4401112751607550970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_34
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1336
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345ecd480ebb63c70800000000000000
+      internalID: 8950547882421577027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_35
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1336
+        width: 156
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ddaffbcd2cfdf10800000000000000
+      internalID: 2296768588351724877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_36
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1336
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc03febbffd59f40800000000000000
+      internalID: 5734735972859579644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1156
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90bcd22f44aeb20800000000000000
+      internalID: 3164417495122250224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1155
+        width: 157
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a923469e0c32fe870800000000000000
+      internalID: 8714223115441549978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallerypoccontainernumbers_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1156
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477f78c3b7a3b520800000000000000
+      internalID: 2716699390839322437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 49ac1e88e4adb384fbc9b7b525d05cef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: c311c63b4c5124b43890e867a4b3eb1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1789709491160746626
+    second: photonnetwroksprites_0
+  - first:
+      213: -7323108022007404474
+    second: photonnetwroksprites_1
+  - first:
+      213: 846464178141272526
+    second: photonnetwroksprites_2
+  - first:
+      213: -558438470033991279
+    second: photonnetwroksprites_3
+  - first:
+      213: 6876664133522351979
+    second: photonnetwroksprites_4
+  - first:
+      213: 871241460878949941
+    second: photonnetwroksprites_5
+  - first:
+      213: 328144797047029133
+    second: photonnetwroksprites_6
+  - first:
+      213: -2641782463807342661
+    second: photonnetwroksprites_7
+  - first:
+      213: 101422289915448727
+    second: photonnetwroksprites_8
+  - first:
+      213: 6464019541500940446
+    second: photonnetwroksprites_9
+  - first:
+      213: -5801113315192949875
+    second: photonnetwroksprites_10
+  - first:
+      213: 883357117135819459
+    second: photonnetwroksprites_11
+  - first:
+      213: -6270626891375048635
+    second: photonnetwroksprites_12
+  - first:
+      213: 4527442093607026147
+    second: photonnetwroksprites_13
+  - first:
+      213: 1538325498279555298
+    second: photonnetwroksprites_14
+  - first:
+      213: 8759172992761681299
+    second: photonnetwroksprites_15
+  - first:
+      213: 7806291640791045699
+    second: photonnetwroksprites_16
+  - first:
+      213: 8903607404446888363
+    second: photonnetwroksprites_17
+  - first:
+      213: -5562022686526971367
+    second: photonnetwroksprites_18
+  - first:
+      213: 9182394250243249942
+    second: photonnetwroksprites_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: photonnetwroksprites_0
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 6398
+        width: 1620
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f73833bca927e0800000000000000
+      internalID: -1789709491160746626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_1
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 6399
+        width: 1620
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486f60bd081f5a90800000000000000
+      internalID: -7323108022007404474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_2
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 6418
+        width: 1668
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9143d6fae3fbb00800000000000000
+      internalID: 846464178141272526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_3
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 6399
+        width: 1632
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19916b49b270048f0800000000000000
+      internalID: -558438470033991279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4806
+        width: 1632
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e4466891de6f50800000000000000
+      internalID: 6876664133522351979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_5
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 4826
+        width: 1632
+        height: 1516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e384d1e75471c00800000000000000
+      internalID: 871241460878949941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_6
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 4826
+        width: 1668
+        height: 1516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d71ee44fdcd8400800000000000000
+      internalID: 328144797047029133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_7
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 4826
+        width: 1644
+        height: 1516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb738ee88d0865bd0800000000000000
+      internalID: -2641782463807342661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3231
+        width: 1640
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d87ba0903586100800000000000000
+      internalID: 101422289915448727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_9
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3230
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d850768fc4b950800000000000000
+      internalID: 6464019541500940446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_10
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 3230
+        width: 1668
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b22aec2e4e7fa0800000000000000
+      internalID: -5801113315192949875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_11
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 3230
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c291b82e90524c00800000000000000
+      internalID: 883357117135819459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1654
+        width: 1640
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480494c0124af8a0800000000000000
+      internalID: -6270626891375048635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_13
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1654
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edf892c894b4de30800000000000000
+      internalID: 4527442093607026147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_14
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 1654
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f0e9e3ea395510800000000000000
+      internalID: 1538325498279555298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_15
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 1654
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39551c7cd65de8970800000000000000
+      internalID: 8759172992761681299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 78
+        width: 1640
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346937643e4855c60800000000000000
+      internalID: 7806291640791045699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_17
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 78
+        width: 1643
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba13891d2c7ff8b70800000000000000
+      internalID: 8903607404446888363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_18
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 78
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91265e0e5d9bfc2b0800000000000000
+      internalID: -5562022686526971367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photonnetwroksprites_19
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 78
+        width: 1644
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61796519bea6e6f70800000000000000
+      internalID: 9182394250243249942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c089cb103e01c3d41b714c0ff7f6f87c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
